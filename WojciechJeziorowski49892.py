@@ -140,5 +140,3 @@ def petla_glowna_programu():
         elif wybor == 8:
             return
 petla_glowna_programu()
-
-#zapisz rachunek do pliku
